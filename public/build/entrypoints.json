@@ -2,45 +2,44 @@
   "entrypoints": {
     "app": {
       "js": [
-        "/build/runtime.js",
-        "/build/vendors-node_modules_jquery_dist_jquery_js.js",
-        "/build/vendors-node_modules_core-js_internals_add-to-unscopables_js-node_modules_core-js_internals_a-dd2802.js",
-        "/build/vendors-node_modules_core-js_modules_es_string_replace_js.js",
-        "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_bootstrap-sass_assets-6fd256.js",
-        "/build/app.js"
+        "http://localhost:8080/build/runtime.js",
+        "http://localhost:8080/build/vendors-node_modules_jquery_dist_jquery_js-node_modules_webpack-dev-server_client_index_js_pr-5fb9aa.js",
+        "http://localhost:8080/build/vendors-node_modules_core-js_internals_add-to-unscopables_js-node_modules_core-js_internals_a-dd2802.js",
+        "http://localhost:8080/build/vendors-node_modules_core-js_internals_string-trim_js-node_modules_core-js_modules_es_string_-aefe71.js",
+        "http://localhost:8080/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_bootstrap-sass_assets-ca91c6.js",
+        "http://localhost:8080/build/app.js"
       ],
       "css": [
-        "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_bootstrap-sass_assets-6fd256.css",
-        "/build/app.css"
+        "http://localhost:8080/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_bootstrap-sass_assets-ca91c6.css",
+        "http://localhost:8080/build/app.css"
       ]
     },
     "login": {
       "js": [
-        "/build/runtime.js",
-        "/build/vendors-node_modules_jquery_dist_jquery_js.js",
-        "/build/login.js"
+        "http://localhost:8080/build/runtime.js",
+        "http://localhost:8080/build/vendors-node_modules_jquery_dist_jquery_js-node_modules_webpack-dev-server_client_index_js_pr-5fb9aa.js",
+        "http://localhost:8080/build/login.js"
       ]
     },
     "admin": {
       "js": [
-        "/build/runtime.js",
-        "/build/vendors-node_modules_jquery_dist_jquery_js.js",
-        "/build/vendors-node_modules_core-js_internals_add-to-unscopables_js-node_modules_core-js_internals_a-dd2802.js",
-        "/build/vendors-node_modules_bootstrap-tagsinput_dist_bootstrap-tagsinput_js-node_modules_core-js_mod-c78b2d.js",
-        "/build/admin.js"
+        "http://localhost:8080/build/runtime.js",
+        "http://localhost:8080/build/vendors-node_modules_jquery_dist_jquery_js-node_modules_webpack-dev-server_client_index_js_pr-5fb9aa.js",
+        "http://localhost:8080/build/vendors-node_modules_core-js_internals_add-to-unscopables_js-node_modules_core-js_internals_a-dd2802.js",
+        "http://localhost:8080/build/vendors-node_modules_bootstrap-tagsinput_dist_bootstrap-tagsinput_js-node_modules_core-js_mod-325999.js",
+        "http://localhost:8080/build/admin.js"
       ],
       "css": [
-        "/build/admin.css"
+        "http://localhost:8080/build/admin.css"
       ]
     },
     "search": {
       "js": [
-        "/build/runtime.js",
-        "/build/vendors-node_modules_jquery_dist_jquery_js.js",
-        "/build/vendors-node_modules_core-js_internals_add-to-unscopables_js-node_modules_core-js_internals_a-dd2802.js",
-        "/build/vendors-node_modules_core-js_modules_es_string_replace_js.js",
-        "/build/vendors-node_modules_core-js_modules_es_string_iterator_js-node_modules_core-js_modules_es_st-a38065.js",
-        "/build/search.js"
+        "http://localhost:8080/build/runtime.js",
+        "http://localhost:8080/build/vendors-node_modules_jquery_dist_jquery_js-node_modules_webpack-dev-server_client_index_js_pr-5fb9aa.js",
+        "http://localhost:8080/build/vendors-node_modules_core-js_internals_add-to-unscopables_js-node_modules_core-js_internals_a-dd2802.js",
+        "http://localhost:8080/build/vendors-node_modules_core-js_internals_string-trim_js-node_modules_core-js_modules_es_string_-aefe71.js",
+        "http://localhost:8080/build/search.js"
       ]
     }
   }

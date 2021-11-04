@@ -59,6 +59,7 @@ Encore
     })
 
     // enables Sass/SCSS support
+    .enableReactPreset()
     .enableSassLoader()
 
     // uncomment if you use TypeScript

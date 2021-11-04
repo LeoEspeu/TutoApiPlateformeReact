@@ -26,7 +26,6 @@ use ApiPlatform\Core\Bridge\Doctrine\Orm\Filter\SearchFilter;
  *     attributes={
  *        "order"={"publishedAt":"DESC"}
  *     },
- *     paginationPartial=true,
  *     paginationItemsPerPage=2,
  *     normalizationContext={"groups"={"read:comment"}},
  *     collectionOperations={
